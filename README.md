@@ -1,4 +1,4 @@
-# E-Commerce Website
+
 
 This is a simple e-commerce website built using HTML, CSS, and JavaScript. The project showcases a variety of products with features like a product slider, color and size selection, and a payment form.
 
